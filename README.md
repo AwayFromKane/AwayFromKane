@@ -15,7 +15,7 @@
 ## Mercy
 
 ### Collective *(NL/EN)*
-- **CEO**
+- **Founder**
 - `https://dsc.gg/mercy-coll`
 
 ### Roleplay *(NL/BE)*
