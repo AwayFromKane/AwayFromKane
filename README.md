@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Lua-0c89b3?logo=lua&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/TypeScript-821d1d?logo=typescript&logoColor=white&style=flat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact&langs_count=10&show_icons=true)](https://github.com/AwayFromKane)
 
 ## Contact me
 <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="AwayFromKane#0001" href="https://dsc.gg/mercy-coll" width="170" height="170">
