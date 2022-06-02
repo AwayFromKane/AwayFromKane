@@ -9,7 +9,7 @@
 ![](https://img.shields.io/discord/878379225357369404?label=Join%20the%20Discord)
 
 ## Coding Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact&langs_count=10&show_icons=true)](https://github.com/AwayFromKane)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact)](https://github.com/AwayFromKane)
 
 ## Stats
 
