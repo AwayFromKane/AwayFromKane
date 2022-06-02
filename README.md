@@ -1,7 +1,3 @@
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Introduction
 
 - 👋 Hello there! I'm AwayFromKane
