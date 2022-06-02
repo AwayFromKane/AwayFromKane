@@ -1,7 +1,8 @@
 ## Introduction
 
-- 👋 I'm Kane
-- <img src="https://i.imgur.com/oHouJ74.jpg" alt="AwayFromKane#0001" href="https://dsc.gg/mercy-coll" width="20" height="20" style="position: absolute; padding:2vh;"> FiveM Dev
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+there%2C+I'm+Kane.)](https://git.io/typing-svg)
+
+[Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75858&lines=Currently+I+do+FiveM+Development)](https://git.io/typing-svg)
 
 ## Coding Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact&langs_count=10&show_icons=true)](https://github.com/AwayFromKane)
