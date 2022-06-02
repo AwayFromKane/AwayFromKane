@@ -23,3 +23,18 @@
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)]"  
 </p>
+
+## What am I listening to?
+  
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31am2lthekdqoa4m4yzlzztr75yu)
+
+  </td>
+  <td width="50%">
+
+  </p>
+  </td>
+</table>
