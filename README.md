@@ -1,6 +1,6 @@
 ## Introduction
 
-- 👋 Hi! I'm Kane
+- 👋 I'm Kane
 - <img src="https://i.imgur.com/oHouJ74.jpg" alt="AwayFromKane#0001" href="https://dsc.gg/mercy-coll" width="20" height="20" style="position: absolute; padding:2vh;"> FiveM Dev
 
 ## Coding Languages
