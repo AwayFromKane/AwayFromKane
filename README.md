@@ -17,3 +17,7 @@
 ![](https://komarev.com/ghpvc/?username=awayfromkane&color=blue&style=for-the-badge)
 ![](https://img.shields.io/youtube/channel/subscribers/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)
 ![](https://img.shields.io/youtube/channel/views/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)
+
+## Quote of the day
+
+![](https://programming-quotes-api.herokuapp.com/Quotes?count=2)
