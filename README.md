@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=78CEF7&multiline=true&width=650&height=110&lines=I+founded+Mercy+Collective+with+%40RazerFiveM.;Together+we+offer+script+support+and+scripts+for+FiveM.;Do+you+need+support%3F+Do+not+hesitate+and+join+our+Discord.;)](https://dsc.gg/mercy-coll)
 
-[![](https://img.shields.io/discord/878379225357369404?label=Join%20the%20Discord)]
+![](https://img.shields.io/discord/878379225357369404?label=Join%20the%20Discord)
 
 ## Coding Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact&langs_count=10&show_icons=true)](https://github.com/AwayFromKane)
