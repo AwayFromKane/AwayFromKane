@@ -1,6 +1,8 @@
 ## ❓ Introduction
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&multiline=true&height=60&lines=Hi+there%2C+I'm+Kane.;I+am+a+FiveM+Developer.)](https://git.io/typing-svg)
+Hi, I'm Kane.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer)](https://git.io/typing-svg)
 
 ## ❤️ Mercy Collective
 
