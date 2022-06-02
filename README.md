@@ -25,12 +25,6 @@
 </p>
 
 ## What am I listening to?
-  
 <table width="100%"> 
-  <tr>
-
 &nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31am2lthekdqoa4m4yzlzztr75yu&cover_image=true&theme=novatorem )]([Profile](https://open.spotify.com/user/31am2lthekdqoa4m4yzlzztr75yu))
-
-  </p>
-  </td>
 </table>
