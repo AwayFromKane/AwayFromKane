@@ -10,8 +10,9 @@ Hi, I'm Kane.
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/878379225357369404/widget.png?style=banner2)
 
-## 💻 Languages
+## 💻 Languages & Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact)](https://github.com/AwayFromKane)
+![Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,nodejs,mongodb,mysql,md,git,bash,cloudflare,jquery,nginx,vscode&theme=light)
 
 ## 📊 Stats
 
