@@ -12,7 +12,7 @@ Hi, I'm Kane.
 
 ## 💻 Languages & Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact)](https://github.com/AwayFromKane)
-![Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,nodejs,mongodb,mysql,md,git,jquery,nginx,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,mongodb,mysql,md,git,jquery,nginx,vscode&theme=dark)
 
 ## 📊 Stats
 
