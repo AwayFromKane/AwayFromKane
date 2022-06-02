@@ -19,7 +19,3 @@
 ### Collective *(NL/EN)*
 - **Founder**
 - `https://dsc.gg/mercy-coll`
-
-### Roleplay *(NL/BE)*
-- **Owner**
-- `https://dsc.gg/mercy-rp`
