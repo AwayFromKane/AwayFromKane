@@ -30,7 +30,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31am2lthekdqoa4m4yzlzztr75yu)
+&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31am2lthekdqoa4m4yzlzztr75yu&cover_image=true&theme=novatorem )](https://github.com/kittinan/spotify-github-profile)
 
   </td>
   <td width="50%">
