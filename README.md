@@ -20,4 +20,6 @@
 
 ## Quote of the day
 
-![](https://programming-quotes-api.herokuapp.com/Quotes?count=2)
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]"  
+</p>
