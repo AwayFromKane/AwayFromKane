@@ -1,0 +1,39 @@
+name: Spotify Now Playing
+
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  schedule:
+    - cron: '* * * * *'
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  update-readme-with-blog:
+    name: AwayFromKane
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: requirements.txt
+        run: |
+          pip install -r ./scripts/requirements.txt
+      - name: generate
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          python ./scripts/fetch_spotify.py
+      - name: Commit and push if changed
+        run: |
+        git add .
+        git config --global user.email "kanecant5@gmail.com"
+        git config --global user-name "AwayFromKane"
+        git commit -m "Updated spotify.svg"
+        git push origin main
