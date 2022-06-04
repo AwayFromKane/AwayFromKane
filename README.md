@@ -16,10 +16,10 @@ Hi, I'm Kane.
 
 ## 📊 Stats
 
-![](https://img.shields.io/github/followers/awayfromkane?style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=awayfromkane&color=blue&style=for-the-badge)
-![](https://img.shields.io/youtube/channel/subscribers/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)
-![](https://img.shields.io/youtube/channel/views/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)
+[![](https://img.shields.io/github/followers/awayfromkane?style=for-the-badge)](https://github.com/AwayFromKane)
+[![](https://komarev.com/ghpvc/?username=awayfromkane&color=blue&style=for-the-badge)](https://github.com/AwayFromKane)
+[![](https://img.shields.io/youtube/channel/subscribers/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)](https://github.com/AwayFromKane)
+[![](https://img.shields.io/youtube/channel/views/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)](https://github.com/AwayFromKane)
 
 ## 📃 Quote
 
