@@ -2,7 +2,7 @@
 
 Hi, I'm Kane.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer)](https://github.com/AwayFromKane)
 
 ## ❤️ Mercy Collective
 
