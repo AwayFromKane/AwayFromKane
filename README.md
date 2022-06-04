@@ -28,4 +28,4 @@ Hi, I'm Kane.
 </p>
 
 ## 🎧 Spotify
-[![](spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31am2lthekdqoa4m4yzlzztr75yu&cover_image=true&theme=novatorem)](https://github.com/AwayFromKane)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31am2lthekdqoa4m4yzlzztr75yu&cover_image=true&theme=novatorem)](https://github.com/AwayFromKane)
