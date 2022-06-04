@@ -1,6 +1,6 @@
 ## ❓ Introduction
 
-Hi, I'm Kane.
+### Hi, I'm Kane.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer)](https://github.com/AwayFromKane)
 
