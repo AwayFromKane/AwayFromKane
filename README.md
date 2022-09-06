@@ -4,11 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer)](https://github.com/AwayFromKane)
 
-## ❤️ Mercy Collective
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=78CEF7&multiline=true&width=650&height=110&lines=I+founded+Mercy+Collective+with+%40RazerFiveM.;Together+we+offer+script+support+and+scripts+for+FiveM.;Do+you+need+support%3F+Do+not+hesitate+and+join+our+Discord.;)](https://dsc.gg/mercy-coll)
-
-[![Discord](https://discordapp.com/api/guilds/878379225357369404/widget.png?style=banner2)](https://dsc.gg/mercy-coll)
+## 📊 Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/212192520141144064?theme=dark)](https://discord.com/users/212192520141144064)
 
 ## 💻 Languages & Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact)](https://github.com/AwayFromKane)
