@@ -22,6 +22,3 @@
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)]"  
 </p>
-
-## 🎧 Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31am2lthekdqoa4m4yzlzztr75yu&cover_image=true&theme=novatorem)](https://github.com/AwayFromKane)
