@@ -8,7 +8,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/212192520141144064?theme=dark)](https://discord.com/users/212192520141144064)
 ## 💻 Languages & Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact)](https://github.com/AwayFromKane)
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,mongodb,mysql,md,git,jquery,nginx,vscode&theme=dark)](https://github.com/AwayFromKane)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,mongodb,mysql,md,lua,git,jquery,nginx,vscode&theme=dark)](https://github.com/AwayFromKane)
 
 ## 📊 Stats
 
