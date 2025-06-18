@@ -2,7 +2,7 @@
 
 ### Hi, I'm Kane.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer)](https://github.com/AwayFromKane)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Developer)](https://github.com/AwayFromKane)
 
 ## 📊 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/212192520141144064?theme=dark)](https://discord.com/users/212192520141144064)
