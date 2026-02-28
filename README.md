@@ -17,9 +17,7 @@ I’m currently pursuing a Bachelor’s degree in Applied Computer Science at Ka
 
 Driven by curiosity and a passion for problem-solving, I’m always exploring new technologies and building impactful digital solutions.
 
-## 💻 Languages & Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact)](https://github.com/AwayFromKane)
-
+## 💻 Skills
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mongodb,mysql,lua,git,jquery,svelte&theme=dark)](https://github.com/AwayFromKane)
 
 ## 📊 Stats
