@@ -1,11 +1,25 @@
 ## ❓ Introduction
 
-### Hi, I'm Kane.
+I’m a Full-Stack Developer and Computer Science student with a strong foundation in scalable systems, performance optimization, and user-focused design.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Developer)](https://github.com/AwayFromKane)
+My journey began in game development, where I built custom multiplayer frameworks and gameplay systems for **Grand Theft Auto V (FiveM)**. Through projects like the Mercy Framework,
+I gained hands-on experience with **Lua, TypeScript, Node.js, Svelte, HTML, CSS**, and databases such as **MySQL** and **MongoDB**.
+
+That experience taught me how to:
+- Design scalable architectures
+- Write clean, maintainable code
+- Optimize performance-critical systems
+- Collaborate effectively within development teams
+
+Today, my focus is on modern web and software development — building efficient, reliable applications that balance technical performance with great user experience.
+
+I’m currently pursuing a Bachelor’s degree in Applied Computer Science at Karel De Grote University, where I continue expanding my expertise in backend systems and frontend architecture.
+
+Driven by curiosity and a passion for problem-solving, I’m always exploring new technologies and building impactful digital solutions.
 
 ## 📊 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/212192520141144064?theme=dark)](https://discord.com/users/212192520141144064)
+
 ## 💻 Languages & Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact)](https://github.com/AwayFromKane)
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,mongodb,mysql,md,lua,git,jquery,nginx,vscode,svelte&theme=dark)](https://github.com/AwayFromKane)
@@ -22,3 +36,8 @@
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)]"  
 </p>
+
+## 📬 Contact
+
+📧 **Email:** hello@kanecant.be
+💬 **Discord:** AwayFromKane
