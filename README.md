@@ -11,9 +11,9 @@ That experience taught me how to:
 - Optimize performance-critical systems
 - Collaborate effectively within development teams
 
-Today, my focus is on modern web and software development — building efficient, reliable applications that balance technical performance with great user experience.
+Today, my focus is on modern web and software development, building efficient, reliable applications that balance technical performance with great user experience.
 
-I’m currently pursuing a Bachelor’s degree in Applied Computer Science at Karel De Grote University, where I continue expanding my expertise in backend systems and frontend architecture.
+I’m graduating from Karel De Grote University with a Bachelor’s degree in Applied Computer Science.
 
 Driven by curiosity and a passion for problem-solving, I’m always exploring new technologies and building impactful digital solutions.
 
