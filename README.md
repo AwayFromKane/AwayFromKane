@@ -1,6 +1,6 @@
 ## ❓ Introduction
 
-I’m a Full-Stack Developer and Computer Science student with a strong foundation in scalable systems, performance optimization, and user-focused design.
+I’m a Full-Stack Developer with a strong foundation in scalable systems, performance optimization, and user-focused design.
 
 My journey began in game development, where I built custom multiplayer frameworks and gameplay systems for **Grand Theft Auto V (FiveM)**. Through projects like the Mercy Framework,
 I gained hands-on experience with **Lua, TypeScript, Node.js, Svelte, HTML, CSS**, and databases such as **MySQL** and **MongoDB**.
