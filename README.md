@@ -9,18 +9,18 @@
     <b>Applied Computer Science Graduate @ KdG</b> • <b>Full-Stack & Systems Development</b>
   </p>
 
-  <!-- Badges & Social Links -->
+<!-- Badges & Social Links -->
   <p align="center">
     <a href="mailto:hello@kanecant.be">
-      <img src="https://img.shields.io/badge/Email-hello%40kanecant.be-00F5FF?style=for-the-badge&logo=maildotru&logoColor=black" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-hello%40kanecant.be-1f242c?style=for-the-badge&logo=maildotru&logoColor=8b949e" alt="Email" />
     </a>
     <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/Discord-AwayFromKane-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-AwayFromKane-2b2d31?style=for-the-badge&logo=discord&logoColor=5865f2" alt="Discord" />
     </a>
     <a href="https://github.com/AwayFromKane">
-      <img src="https://img.shields.io/github/followers/awayfromkane?style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/followers/awayfromkane?style=for-the-badge&logo=github&logoColor=c9d1d9&color=1f242c" alt="GitHub Followers" />
     </a>
-    <img src="https://api.visitorbadge.io/api/visitors?path=AwayFromKane&label=VIEWS&labelColor=181717&countColor=00f5ff&style=for-the-badge" alt="Profile Views" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=AwayFromKane&label=VIEWS&labelColor=161b22&countColor=21262d&style=for-the-badge" alt="Profile Views" />
   </p>
 
   <!-- Contribution Snake Animation (Requires .github/workflows/snake.yml) -->
