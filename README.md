@@ -20,7 +20,7 @@
     <a href="https://github.com/AwayFromKane">
       <img src="https://img.shields.io/github/followers/awayfromkane?style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
     </a>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAwayFromKane&count_bg=%2300F5FF&title_bg=%23181717&icon=&icon_color=%23E7E7E7&title=VIEWS&edge_flat=false" alt="Profile Views" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=AwayFromKane&label=VIEWS&labelColor=181717&countColor=00f5ff&style=for-the-badge" alt="Profile Views" />
   </p>
 
   <!-- Contribution Snake Animation (Requires .github/workflows/snake.yml) -->
